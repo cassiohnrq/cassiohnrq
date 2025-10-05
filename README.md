@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Cassio Henrique 😁
+## Bem-vindo(a) ao perfil de Cassio Henrique 😁 em busca da primeira oportunidade como DEV
 
  <div>
    <a href="https://github.com/cassiohnrq">
